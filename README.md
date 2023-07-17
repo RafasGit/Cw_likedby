@@ -1,0 +1,1 @@
+Solution to a coding challenge to remove any white space between strings using the split and join methods
